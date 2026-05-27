@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   youtube-mp3-bot:
     image: ghcr.io/d3473r/youtube-mp3-bot:main
